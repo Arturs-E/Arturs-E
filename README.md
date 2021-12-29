@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 📫 How to reach me **https://www.linkedin.com/in/arturs-endzelins/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
